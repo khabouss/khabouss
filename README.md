@@ -2,17 +2,17 @@
 
 - Vue.js, React.js, Nuxt.js, Next.js, and Nest.js for building modern web applications.
 - JavaScript for frontend and backend development.
+- Python for data and AI
 - Java, C, and C++ for general-purpose programming.
 - Elasticsearch for powerful and scalable search and analytics.
 - MongoDB for flexible and scalable NoSQL database solutions.
 - SQL for relational database management.
 
-Feel free to browse my repositories to explore my projects and contributions!
-
 
 <!-- Icons -->
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React.js" width="40" height="40"/>
   <img src="https://seeklogo.com/images/N/nuxt-logo-5EF50E1ABD-seeklogo.com.png" alt="Nuxt.js" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" width="40" height="40"/>
