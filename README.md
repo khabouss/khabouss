@@ -5,8 +5,7 @@
 - Python for data and AI
 - Java, C, and C++ for general-purpose programming.
 - Elasticsearch for powerful and scalable search and analytics.
-- MongoDB for flexible and scalable NoSQL database solutions.
-- SQL for relational database management.
+- Langchain to build RAG and LLM based apps
 
 
 <!-- Icons -->
