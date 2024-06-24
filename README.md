@@ -1,6 +1,6 @@
 ## Technologies I've worked with
 
-- Vue.js, React.js, Nuxt.js, Next.js, and Nest.js for building modern web applications.
+- Vue, Nuxt, and Nest for building modern web applications.
 - JavaScript for frontend and backend development.
 - Python for data and AI
 - Java, C, and C++ for general-purpose programming.
