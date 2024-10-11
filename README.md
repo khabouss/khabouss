@@ -1,7 +1,6 @@
 ## Technologies I've worked with
 
 - Vue, Nuxt, and Nest for building modern web applications.
-- JavaScript for frontend and backend development.
 - Python for data and AI
 - Java, C, and C++ for general-purpose programming.
 - Elasticsearch for powerful and scalable search and analytics.
